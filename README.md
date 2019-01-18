@@ -8,3 +8,4 @@ List of shopping items needed:
 - Coffee
 - Baked Beans
 - Jam
+- Butter
