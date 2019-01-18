@@ -9,3 +9,5 @@ List of shopping items needed:
 - Baked Beans
 - Jam
 - Butter
+- Cucumber
+- Apples
