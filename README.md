@@ -2,7 +2,9 @@
 
 List of shopping items needed:
 - Cheese
-- Milk
 - Bread
+- Sugar
 - Tea
 - Coffee
+- Baked Beans
+- Jam
